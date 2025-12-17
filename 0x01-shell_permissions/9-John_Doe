@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# This script sets hello permissions to -rwxr-x-wx
-chmod 715 hello
+#!/bin/bash
+chmod 753 hello

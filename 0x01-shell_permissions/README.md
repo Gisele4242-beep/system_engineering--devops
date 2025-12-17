@@ -1,1 +1,3 @@
-0x01-shell_permissions/README.md
+Hi
+
+Today i'm Learning Shell Permissions

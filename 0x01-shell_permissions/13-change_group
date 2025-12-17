@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# This script changes the group owner of hello to school
-chgrp school hello
+#!/bin/bash
+sudo chgrp school hello

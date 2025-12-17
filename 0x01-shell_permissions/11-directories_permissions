@@ -1,3 +1,2 @@
-#!/usr/bin/env bash
-# This script adds execute permission to all subdirectories of the current directory
-chmod +X *
+#!/bin/bash
+chmod a+X *
